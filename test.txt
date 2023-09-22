@@ -1,0 +1,6 @@
+The GANTT Chart
+A GANTT chart is a planning tool that depicts graphically the order in which various tasks must be completed and the duration of each activity.
+The GANTT chart indicates:
+•	the tasks to be performed;
+•	who is responsible for each task; and
+•	the time each task is expected to take.
